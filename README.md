@@ -17,6 +17,8 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 1. Cloner le projet :
 
    git clone <URL_DU_REPO>
+   
+   
    cd <NOM_DU_REPO>
 
 2. Installer les dépendances :
