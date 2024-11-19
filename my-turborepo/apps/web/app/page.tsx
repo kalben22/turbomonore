@@ -34,6 +34,7 @@ export default function Home() {
         <ol>
           <li>
             Get started by editing <code>apps/web/app/page.tsx</code>
+            You are welcomd !!
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
@@ -66,6 +67,9 @@ export default function Home() {
         <Button appName="web" className={styles.secondary}>
           Open alert
         </Button>
+        <h1 className="text-3xl font-bold underline">
+          Hello world!
+        </h1>
       </main>
       <footer className={styles.footer}>
         <a
